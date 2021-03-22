@@ -14,6 +14,18 @@ Well We Have Decided To Make A Immersion Checker That Will Tell You If You Have 
 
 Instructions To Use ->
 
-1. a
-2. b
-3. c
+Equipment Needed : Arduino Yún, Base Shield Light Sensor, Buzzer and Red Led For Testing
+Software Needed  : Arduino IDE
+
+Steps:
+
+1. Attach Base Shield To The Arduino Yún
+2. Attach Light Sensor Into Port (A0)
+3. Attach Busser Into Port (D6)
+4. Attach Red LED Into Port (D2)
+5. Clone Repo To Your Desktop And Put The .ino File Onto The Arduino IDE
+6. Make Sure Your Arduino Yún Is Configured Properly And Is Connected To WiFi
+7. Change The Timer Length By Changing The Delay (Default Is Set To 8 Seconds For Testing)
+8. Upload To The Arduino Yún
+
+If You Need Further Help Please Feel Free To Watch The Video On How To Setup The Whole Project And See The Example | 
