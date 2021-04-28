@@ -1,3 +1,5 @@
+// Using Push Bullet For Phone Notifications Please Set Up Push Bullet By Going To http://www.pushbullet.com And Follow All Steps
+
 char devid[] = "v46E0554214C3E74"; // Change To Your DevID From Pushing Box
 char serverName[] = "api.pushingbox.com";
 boolean DEBUG = true;
