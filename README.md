@@ -28,4 +28,3 @@ Steps:
 7. Change The Timer Length By Changing The Delay (Default Is Set To 8 Seconds For Testing)
 8. Upload To The Arduino Yún
 
-If You Need Further Help Please Feel Free To Watch The Video On How To Setup The Whole Project And See The Example | 
