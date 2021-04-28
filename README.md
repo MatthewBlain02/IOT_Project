@@ -21,7 +21,7 @@ Steps:
 
 1. Attach Base Shield To The Arduino Yún
 2. Attach Light Sensor Into Port (A0)
-3. Attach Busser Into Port (D6)
+3. Attach Buzzer Into Port (D6)
 4. Attach Red LED Into Port (D2)
 5. Clone Repo To Your Desktop And Put The .ino File Onto The Arduino IDE
 6. Make Sure Your Arduino Yún Is Configured Properly And Is Connected To WiFi
