@@ -14,7 +14,7 @@ Well We Have Decided To Make A Immersion Checker That Will Tell You If You Have 
 
 Instructions To Use ->
 
-Equipment Needed : Arduino Yún, Base Shield Light Sensor, Buzzer and Red Led For Testing
+Equipment Needed : Arduino Yún, Base Shield, Light Sensor, Buzzer and Red Led For Testing
 Software Needed  : Arduino IDE
 
 Steps:
